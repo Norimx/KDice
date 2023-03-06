@@ -1,0 +1,2 @@
+# KDice
+KDice Elementor theme
